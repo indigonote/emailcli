@@ -1,2 +1,4 @@
 /email
 /.idea
+build
+.DS_Store
